@@ -63,6 +63,7 @@
 	(setq mac-option-modifier nil))))
 
 (defun conf-auto-install ()
+  ""
   )
 
 ;; main
