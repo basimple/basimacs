@@ -62,6 +62,9 @@
 	(setq mac-command-modifier 'meta)
 	(setq mac-option-modifier nil))))
 
+(defun conf-auto-install ()
+  )
+
 ;; main
 (defun basimacs/init ()
   ""
